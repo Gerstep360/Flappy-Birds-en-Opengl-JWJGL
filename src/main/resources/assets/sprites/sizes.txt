@@ -1,0 +1,7 @@
+Background= (288,512)
+Base = (336,112)
+Brids = (34,24)
+Number = (24,36)
+Game Over = (192,42)
+Message Main = (184,267)
+pipe = (52,320)
